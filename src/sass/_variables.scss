@@ -465,7 +465,7 @@ $check-list-offset-top:         $input-padding-vertical + 1px;
 //== Top
 //
 
-$top-menu-bg:                   shade($brand-primary, 700) !default;
+$top-menu-bg:                   $brand-primary !default;
 $top-menu-text:                 shade($brand-primary, 100) !default;
 $top-menu-link:                 shade($brand-primary, 100) !default;
 $top-menu-link-hover:           shade($brand-primary, 50) !default;
